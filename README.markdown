@@ -28,7 +28,7 @@ The landing page showcases the brand's cutting-edge computers, built for speed, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/playviz-landing-page.git
+   git clone https://github.com/vidushankalj/playviz-landing-page.git
    ```
 2. Navigate to the project directory:
    ```bash
